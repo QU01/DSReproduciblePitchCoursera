@@ -1,0 +1,13 @@
+name: ReproduciblePitch
+title: ReproduciblePitch
+username:
+account: nickvazquez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4780705
+bundleId: 5095808
+url: https://nickvazquez.shinyapps.io/ReproduciblePitch/
+when: 1633138467.98919
+lastSyncTime: 1633138467.98924
+asMultiple: FALSE
+asStatic: FALSE
